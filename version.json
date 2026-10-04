@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "appId": "dumbo_words",
+  "enabled": false,
+  "updatedAt": "2026-10-04",
+  "platforms": {
+    "ios": {
+      "bundleId": "com.nekarose.dumboWords",
+      "latestVersion": "1.0.0",
+      "latestBuild": 1,
+      "minimumSupportedBuild": 1,
+      "storeUrl": null,
+      "forceUpdate": false,
+      "releaseNotes": [
+        "첫 출시 준비 중이에요. 스토어 등록 전에는 업데이트 안내를 사용하지 않아요."
+      ]
+    },
+    "android": {
+      "applicationId": "com.nekarose.dumbo_words",
+      "latestVersion": "1.0.0",
+      "latestBuild": 1,
+      "minimumSupportedBuild": 1,
+      "storeUrl": null,
+      "forceUpdate": false,
+      "releaseNotes": [
+        "첫 출시 준비 중이에요. 스토어 등록 전에는 업데이트 안내를 사용하지 않아요."
+      ]
+    }
+  }
+}
