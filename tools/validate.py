@@ -36,7 +36,7 @@ def validate_version(data):
     assert set(data["platforms"]) == {"ios", "android"}
     for platform, config in data["platforms"].items():
         identity = "bundleId" if platform == "ios" else "applicationId"
-        expected = "com.nekarose.dumboWords" if platform == "ios" else "com.nekarose.dumbo_words"
+        expected = "com.nekarose.dumboWords" if platform == "ios" else "com.nekarose.dumbowords"
         assert config[identity] == expected
         assert re.fullmatch(r"[0-9]+\.[0-9]+\.[0-9]+", config["latestVersion"])
         latest, minimum = config["latestBuild"], config["minimumSupportedBuild"]

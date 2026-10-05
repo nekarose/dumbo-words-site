@@ -16,7 +16,7 @@
       ]
     },
     "android": {
-      "applicationId": "com.nekarose.dumbo_words",
+      "applicationId": "com.nekarose.dumbowords",
       "latestVersion": "1.0.0",
       "latestBuild": 1,
       "minimumSupportedBuild": 1,
