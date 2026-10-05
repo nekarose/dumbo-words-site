@@ -12,7 +12,7 @@
 | index.html / styles.css | 앱 소개·마케팅 | 공개(스토어 링크는 등록 후) |
 | privacy/index.html | 개인정보처리방침 | **정식본**, 시행일 2026-10-05. 앱 안 `assets/legal/privacy_ko.txt` 와 같은 내용 |
 | support/index.html | 지원 안내 | 문의 nekarose@gmail.com |
-| app-ads.txt | 광고 판매자 정보 | 실제 게시자 선언문 미입력 |
+| app-ads.txt | 광고 판매자 정보 | pub-9055371492725478. 실제로 읽히는 건 루트 nekarose.github.io/app-ads.txt(이미 같은 줄) |
 | version.json | iOS/Android 버전 안내 | enabled=false, storeUrl=null |
 | tools/validate.py | 로컬 파일 검증 | 표준 Python만 사용 |
 
@@ -72,7 +72,7 @@ AdMob 콘솔이 제공하는 이 계정의 실제 게시자 선언문을 넣어�
 
 - [x] 문의처·시행일과 정식 정책 확정 (2026-10-05)
 - [x] 대상 연령: 13세 이상·전체 이용가 광고, 진단 서비스 없음
-- [ ] 실제 게시자 선언문 및 사이트 루트 경로 확정
+- [x] 게시자 선언: 루트 https://nekarose.github.io/app-ads.txt 에 pub-9055371492725478 이 이미 있어요. 스토어 웹사이트는 https://nekarose.github.io/dumbo-words-site/
 - [ ] 정식 스토어 URL과 공개 버전 확인
 - [x] Pages 설정 및 HTTPS·링크 응답 검증 (커스텀 도메인은 app-ads.txt 결정 때)
 - [ ] 앱 설정 링크/버전 JSON 클라이언트 연결
