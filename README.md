@@ -48,7 +48,14 @@ AdMob 콘솔이 제공하는 이 계정의 실제 게시자 선언문을 넣어�
 ## 업데이트 JSON 규칙
 
 `enabled=false`는 앱이 업데이트 안내를 건너뛰어야 한다는 뜻이에요.
-앱에서 이 JSON을 읽는 기능은 아직 구현되지 않았어요. 파일 게시만으로 설치 앱이 갱신되지 않아요.
+**앱 1.1.1(빌드 3)부터** 켤 때 이 JSON을 읽어요(앱 `lib/app_update.dart`, §49). 그 전 빌드(1.0.0·1.1.0)는 읽지 않아요.
+설치된 빌드 < latestBuild 이면 홈에서 "새 버전이 나왔어요"를 한 번 띄우고, "다음에"를 누르면 그 빌드는 다시 묻지 않아요.
+설치된 빌드 < minimumSupportedBuild 이고 forceUpdate=true 면 닫을 수 없는 안내가 돼요.
+
+켜는 순서: 새 빌드가 **스토어에 실제로 배포된 뒤** 그 플랫폼의 latestVersion·latestBuild·releaseNotes 를 올리고
+storeUrl 을 채운 다음 enabled=true. `python3 tools/validate.py` 로 확인하고 푸시해요.
+  Android storeUrl: https://play.google.com/store/apps/details?id=com.nekarose.dumbowords
+  iOS storeUrl:     https://apps.apple.com/app/id6819471139
 
 - schemaVersion: 지원하는 스키마(현재 1).
 - appId: 앱 논리 식별자 dumbo_words.
