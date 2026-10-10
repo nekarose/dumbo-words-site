@@ -2,28 +2,30 @@
   "schemaVersion": 1,
   "appId": "dumbo_words",
   "enabled": false,
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-10",
   "platforms": {
     "ios": {
       "bundleId": "com.nekarose.dumboWords",
       "latestVersion": "1.0.0",
       "latestBuild": 1,
       "minimumSupportedBuild": 1,
-      "storeUrl": null,
+      "storeUrl": "https://apps.apple.com/app/id6819471139",
       "forceUpdate": false,
       "releaseNotes": [
-        "첫 출시 준비 중이에요. 스토어 등록 전에는 업데이트 안내를 사용하지 않아요."
+        "App Store 1.0 은 이 안내를 읽지 않아요. 다음 iOS 업데이트 때 빌드를 올려요."
       ]
     },
     "android": {
       "applicationId": "com.nekarose.dumbowords",
-      "latestVersion": "1.0.0",
-      "latestBuild": 1,
+      "latestVersion": "1.2.0",
+      "latestBuild": 4,
       "minimumSupportedBuild": 1,
-      "storeUrl": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.nekarose.dumbowords",
       "forceUpdate": false,
       "releaseNotes": [
-        "첫 출시 준비 중이에요. 스토어 등록 전에는 업데이트 안내를 사용하지 않아요."
+        "새 친구 바다 토끼가 왔어요",
+        "모자·안경·옷으로 꾸미고, 꾸미기 세트도 생겼어요",
+        "하루 한 판이면 연속 출석 🔥 가 이어져요"
       ]
     }
   }
