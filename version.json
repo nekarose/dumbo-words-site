@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "appId": "dumbo_words",
-  "enabled": false,
+  "enabled": true,
   "updatedAt": "2026-10-10",
   "platforms": {
     "ios": {
