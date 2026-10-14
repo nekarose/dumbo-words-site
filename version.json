@@ -2,32 +2,32 @@
   "schemaVersion": 1,
   "appId": "dumbo_words",
   "enabled": true,
-  "updatedAt": "2026-10-12",
+  "updatedAt": "2026-10-14",
   "platforms": {
     "ios": {
       "bundleId": "com.nekarose.dumboWords",
-      "latestVersion": "1.2.0",
-      "latestBuild": 4,
+      "latestVersion": "1.3.0",
+      "latestBuild": 5,
       "minimumSupportedBuild": 1,
       "storeUrl": "https://apps.apple.com/app/id6819471139",
       "forceUpdate": false,
       "releaseNotes": [
-        "새 친구 바다 토끼가 왔어요",
-        "모자·안경·옷으로 꾸미고, 꾸미기 세트도 생겼어요",
-        "하루 한 판이면 연속 출석 🔥 가 이어져요"
+        "5단계마다 문장 도전이 생겼어요",
+        "배운 단어로 영어 문장을 만들어요",
+        "문장을 모두 맞히면 다음 단계가 열려요"
       ]
     },
     "android": {
       "applicationId": "com.nekarose.dumbowords",
-      "latestVersion": "1.2.0",
-      "latestBuild": 4,
+      "latestVersion": "1.3.0",
+      "latestBuild": 5,
       "minimumSupportedBuild": 1,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.nekarose.dumbowords",
       "forceUpdate": false,
       "releaseNotes": [
-        "새 친구 바다 토끼가 왔어요",
-        "모자·안경·옷으로 꾸미고, 꾸미기 세트도 생겼어요",
-        "하루 한 판이면 연속 출석 🔥 가 이어져요"
+        "5단계마다 문장 도전이 생겼어요",
+        "배운 단어로 영어 문장을 만들어요",
+        "문장을 모두 맞히면 다음 단계가 열려요"
       ]
     }
   }
