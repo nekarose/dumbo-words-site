@@ -2,32 +2,32 @@
   "schemaVersion": 1,
   "appId": "dumbo_words",
   "enabled": true,
-  "updatedAt": "2026-10-22",
+  "updatedAt": "2026-10-23",
   "platforms": {
     "ios": {
       "bundleId": "com.nekarose.dumboWords",
-      "latestVersion": "1.4.0",
-      "latestBuild": 7,
+      "latestVersion": "2.0.0",
+      "latestBuild": 8,
       "minimumSupportedBuild": 1,
       "storeUrl": "https://apps.apple.com/app/id6819471139",
       "forceUpdate": false,
       "releaseNotes": [
-        "오늘의 복습이 생겼어요",
-        "익힌 단어를 잊기 전에 다시 만나요",
-        "홈 오른쪽 위 노란 쪽지를 눌러 보세요"
+        "일본어 코스가 생겼어요",
+        "히라가나부터 차근차근 배워요",
+        "출석 도장을 찍고 조개를 받아요"
       ]
     },
     "android": {
       "applicationId": "com.nekarose.dumbowords",
-      "latestVersion": "1.4.0",
-      "latestBuild": 7,
+      "latestVersion": "2.0.0",
+      "latestBuild": 8,
       "minimumSupportedBuild": 1,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.nekarose.dumbowords",
       "forceUpdate": false,
       "releaseNotes": [
-        "오늘의 복습이 생겼어요",
-        "익힌 단어를 잊기 전에 다시 만나요",
-        "홈 오른쪽 위 노란 쪽지를 눌러 보세요"
+        "일본어 코스가 생겼어요",
+        "히라가나부터 차근차근 배워요",
+        "출석 도장을 찍고 조개를 받아요"
       ]
     }
   }
