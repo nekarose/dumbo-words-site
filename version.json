@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "appId": "dumbo_words",
   "enabled": true,
-  "updatedAt": "2026-10-23",
+  "updatedAt": "2026-11-02",
   "platforms": {
     "ios": {
       "bundleId": "com.nekarose.dumboWords",
-      "latestVersion": "2.0.0",
-      "latestBuild": 8,
+      "latestVersion": "2.2.0",
+      "latestBuild": 12,
       "minimumSupportedBuild": 1,
       "storeUrl": "https://apps.apple.com/app/id6819471139",
       "forceUpdate": false,
       "releaseNotes": [
-        "일본어 코스가 생겼어요",
-        "히라가나부터 차근차근 배워요",
-        "출석 도장을 찍고 조개를 받아요"
+        "영어 단어장이 생겼어요",
+        "토익·실생활·중학·고등·초등에서 골라요",
+        "두 개까지 틀려도 다음 단계로"
       ]
     },
     "android": {
