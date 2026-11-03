@@ -2,12 +2,12 @@
   "schemaVersion": 1,
   "appId": "dumbo_words",
   "enabled": true,
-  "updatedAt": "2026-11-02",
+  "updatedAt": "2026-11-03",
   "platforms": {
     "ios": {
       "bundleId": "com.nekarose.dumboWords",
-      "latestVersion": "2.2.0",
-      "latestBuild": 12,
+      "latestVersion": "2.2.1",
+      "latestBuild": 13,
       "minimumSupportedBuild": 1,
       "storeUrl": "https://apps.apple.com/app/id6819471139",
       "forceUpdate": false,
@@ -19,8 +19,8 @@
     },
     "android": {
       "applicationId": "com.nekarose.dumbowords",
-      "latestVersion": "2.2.0",
-      "latestBuild": 12,
+      "latestVersion": "2.2.1",
+      "latestBuild": 13,
       "minimumSupportedBuild": 1,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.nekarose.dumbowords",
       "forceUpdate": false,
