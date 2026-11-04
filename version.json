@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "appId": "dumbo_words",
   "enabled": true,
-  "updatedAt": "2026-11-03",
+  "updatedAt": "2026-11-04",
   "platforms": {
     "ios": {
       "bundleId": "com.nekarose.dumboWords",
@@ -19,15 +19,15 @@
     },
     "android": {
       "applicationId": "com.nekarose.dumbowords",
-      "latestVersion": "2.2.1",
-      "latestBuild": 13,
+      "latestVersion": "2.3.0",
+      "latestBuild": 14,
       "minimumSupportedBuild": 1,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.nekarose.dumbowords",
       "forceUpdate": false,
       "releaseNotes": [
-        "영어 단어장이 생겼어요",
-        "토익·실생활·중학·고등·초등에서 골라요",
-        "두 개까지 틀려도 다음 단계로"
+        "단어장이 크게 늘었어요",
+        "수준에 맞는 자리에 새 단계가 들어가요",
+        "별과 진도는 그대로예요"
       ]
     }
   }
